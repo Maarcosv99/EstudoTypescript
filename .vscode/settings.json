@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".vscode": true,
+    ".vscode/settings.json": true,
+    "tsconfig.json": true
+  },
+  "hide-files.files": [
+    ".vscode",
+    ".vscode/settings.json",
+    "tsconfig.json"
+  ],
+  "cSpell.words": [
+    "Checando"
+  ]
+}
